@@ -9,6 +9,7 @@ android {
     namespace = "com.example.id_scan"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
+    //ndkVersion = "27.0.12077973"
      // Specify the required NDK version
     //ndkVersion = 28.0.13004108
 
